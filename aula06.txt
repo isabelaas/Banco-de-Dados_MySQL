@@ -1,3 +1,5 @@
+//Primeira aula sobre Triggers, atividade feita em sala.
+
 create database testes;
 use testes;
 
